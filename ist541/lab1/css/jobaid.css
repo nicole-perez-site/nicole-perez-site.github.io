@@ -8,8 +8,12 @@ body {
 	font-family: 'PT Serif', serif;
 }
 h1, h2 { 
-	text-align:center;     /* centers h1 and h2 content */
+	text-align:center;     /* centers h1 and h2 content */ color:#0F2884;       /* exploring new text color */
 }
+h1 {color:#000000;       /* new text color */ 		font-weight: bold;
+	font-size: 250%;
+}
+h2 {font-size: 150% }
 
 /* styles for the "wrapper" div, notice that "wrapper" is preceded by "#" */
 #wrapper {
@@ -23,7 +27,7 @@ h1, h2 {
 	text-align:left;
 	background-color:#F7E58D;
 	font-weight: bold;
-	font-size: 150%;
+	font-size: 125%;
  }
 
 .stepContent{ 
@@ -45,6 +49,13 @@ h1, h2 {
 	text-align: center;
 }
 
+.stepimage img {	
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
 .stepImage img {
     width:100%;
     height:auto;
