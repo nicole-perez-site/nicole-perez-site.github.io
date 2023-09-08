@@ -10,13 +10,10 @@ body {
 h1, h2 { 
 	text-align:center;     /* centers h1 and h2 content */ color:#0F2884;       /* exploring new text color */
 }
-h1 {color:#000000;       /* new text color */ 
-	font-family: "'Merriweather', serif;";
-	font-style: oblique; 
-	font-weight: bold;
-	font-size: 300%;
+h1 {color:#000000;       /* new text color */ 		font-weight: bold;
+	font-size: 250%;
 }
-h2 {font-size: 125% }
+h2 {font-size: 150% }
 
 /* styles for the "wrapper" div, notice that "wrapper" is preceded by "#" */
 #wrapper {
