@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+
+#wrapper {
+	width:400px;
+	margin:0 auto;         /* centers wrapper */
+ 	text-align: center;
+	background-color: transparent;  /* creates white background with 95% opacity */
+}
+
+table {
+    width: 100%; 
+    margin-right: auto; 
+    margin-left: auto;
+	background-color: transparent
+}
+
+th {
+	height: 75px
+}
+
+th {
+  padding: 25px;
+  text-align: center;
+}
+
+th, td {
+	background-color: transparent;  /* sets background color for table cells*/
+	text-align: center
+}
+
+h1 {
+	font-size: 35px;
+	color: #6A1FC6
+}
+
+h2 { 
+	text-align:center;     /* centers h1 and h2 content */
+	color: #60D5C4
+}
+h1 
+{text-align: center}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+audio { 
+	width:200px;   /* sets the width of the audio controls */
+}
+audio controls src {align-content:center}
+
+a {
+	padding: 15px;
+    margin: 3px;
+	font-size: 105%;
+	background-color:  your_color_of_choice; 
+	color:  your_color_of_choice; 
+}
+
+a:hover {
+	font-size:100%;
+	background-color:transparent; 
+	color: #6517E1; 
+}
