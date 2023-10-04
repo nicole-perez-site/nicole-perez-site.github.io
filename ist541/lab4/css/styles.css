@@ -26,7 +26,7 @@ th {
   text-align: center;
 }
 
-th, td {
+td {
 	background-color: transparent;  /* sets background color for table cells*/
 	text-align: center
 }

@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>lab5.html</title>
+	<link href="css/koala.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+	<div id="wrapper">
+ 
+<h1>What chemicals need to be used to clean blood and spores?</h1>
+ 
+<h3 id="hint"> Hover to see! </h3>
+ 
+ <img  width="480" height="396" onmouseenter="showAnswer()" id="blood" src="img/blood.jpeg"    />
+		
+<img width="480" height="396" onmouseleave="hideAnswer()" id="supersani" src="img/supersani.jpg" />
+ 
+      <div id="answer"></div>  <!-- This is a placeholder to display the answer-->
+ 
+
+<script>
+	
+ function showAnswer() {
+	   $("#blood").hide();
+	   $("#supersani").show();
+	   $("#answer").html("<h2> Super sani cloths (or equivalent)</h2>");
+	}
+
+function hideAnswer() {
+	   $("#blood").show();
+	   $("#supersani").hide();
+	   $("#answer").html("");  
+	}
+
+	
+<br> 
+	
+	 <img  width="480" height="396" onmouseenter="showAnswer()" id="cdifspore" src="img/cdif.jpeg"    />
+		
+<img width="480" height="396" onmouseleave="hideAnswer()" id="clorox" src="img/clorox.jpeg" />
+ 
+      <div id="answer"></div>  <!-- This is a placeholder to display the answer-->
+ 
+
+<script>
+	
+ function showAnswer() {
+	   $("#cdifspore").hide();
+	   $("#clorox").show();
+	   $("#answer").html("<h2> Super sani cloths (or equivalent)</h2>");
+	}
+
+function hideAnswer() {
+	   $("#cdifspore").show();
+	   $("#clorox").hide();
+	   $("#answer").html("");  
+	}
+	
+	
+	
+	</script>
+</div> <!-- closing  “wrapper” -->
+		</body>
+	
+</html>

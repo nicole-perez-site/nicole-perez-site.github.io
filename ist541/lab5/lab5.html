@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+	<link href="css/koala.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	
+<div id="wrapper">
+ 
+<h1> What cleaning product needs to be used on 'Clostridium difficile' (C-Diff)?</h1>
+ 
+<h3 id="hint">Hint: Hover find out!</h3>
+ 
+<img  src="img/cdif.jpeg" alt="" width="300" height="300" id="cdif" onmouseenter="showAnswer()"   />
+ 
+<img src="img/clorox.jpeg" alt="" width="300" height="300" id="clorox" onmouseleave="hideAnswer()" />
+ 
+  <div id="answer"></div>  
+      <!-- This is a placeholder to display the answer-->
+ 
+<br>
+		<h2> Click each item below for more info </h2>
+<br>
+		<h2 onclick="answer1()" class="choices"> Does hand sanitizer work? </h2>
+		<h2 onclick="answer2()" class="choices"> Is it in my poop?! </h2>
+	
+
+	<div id="feedback"></div>
+	
+	<img id="cdiffgerm" src="img/cdiffgerm.jpeg" alt=""/>
+	<br>
+	
+	References: 
+	<a href> https://www.cdc.gov/cdiff/index.html </a> & 
+	<p>
+	<a href> https://www.health.harvard.edu/staying-healthy/clostridium-difficile-an-intestinal-infection-on-the-rise </a> </p>
+	
+</div> <!-- closing  “wrapper” -->
+
+</body>
+	
+<script>
+ function showAnswer() {
+	   $("#cdif").hide();
+	   $("#clorox").show();
+	   $("#answer").html("<h2> Bleach must be used! </h2>");
+	}
+
+function hideAnswer() {
+	   $("#cdif").show();
+	   $("#clorox").hide();
+	   $("#answer").html("");  
+	}
+</script>
+	
+<script>
+      function answer1(){
+         $("#feedback").html("<h2 style='color:green'> No! You must wash your hands with soap and water to kill the spore! </h2><br><br><br>");
+         $("#cdiffgerm").show();
+      }
+		
+	 function answer2(){
+      $("#feedback").html("<h2 style='color:red'> Yup! And it also causes Diarrhea! </h2>");
+      $("#cdiffgerm").show();
+     }
+    
+
+
+   </script>
+
+
+</html>
