@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body 
+ 
+
+{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align:center;   /* centers all content */	
+	font-size: 20px		
+}
+ 
+#wrapper {
+	width:85%;
+	margin:0 auto; 
+	background-color: beige/* centers wrapper */
+}
+
+#feedback {
+	background: white; /* background color */
+	padding: 20px; 
+    font-size: 125%;
+}
+
+h3 {  
+   text-align:center;  
+   color:#103E02;       /* exploring new text color */
+	font-size: 12px
+}
+ 
