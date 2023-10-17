@@ -25,12 +25,13 @@ a {
 	padding: 18px;
 	margin: 3px;
 	font-size: 18px; 
-	color: #0000; 
+	color: #000000; 
 }
 
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: white;
 }
 
 .choices {

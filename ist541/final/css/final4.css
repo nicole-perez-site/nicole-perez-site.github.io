@@ -3,7 +3,7 @@
 body {
 	background-color: #29A58F;
 	color: #000000;   
-	font-size: 16px;
+	font-size: 14px;
 	font-family:Verdana, Geneva, sans-serif;
 	align-content: center;
 	align-items: center;
@@ -30,7 +30,6 @@ a {
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	background-color: white;
 }
 
 #nav {align-items: center;
