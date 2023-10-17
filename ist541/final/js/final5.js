@@ -23,7 +23,7 @@ if ($(this).attr("id") == "pedal") {
          $("#feedback").css("color","black");
          $("#feedback").html("All light purple hands must be cleaned after EVERY patient if it is used – such as equipment foot pedals");
 	}
-if ($(this).attr("id") == "lights") {
+if ($(this).attr("id") == "light") {
          $("#feedback").css("color","black");
          $("#feedback").html("All light purple hands must be cleaned after EVERY patient if it is used – such as reusable positioning devices, foot pedals, monitors, etc.");
       } 
@@ -47,7 +47,7 @@ if ($(this).attr("id") == "reusables") {
          $("#feedback").css("color","black");
          $("#feedback").html("All light purple hands must be cleaned after EVERY patient if it is used – such as reusable positioning equipment.");
 		}
-if ($(this).attr("id") == "table"){
+if ($(this).attr("id") == "orbed"){
          $("#feedback").css("color","black");
          $("#feedback").html("The operating table must be cleaned after EVERY patient.");
 		}
