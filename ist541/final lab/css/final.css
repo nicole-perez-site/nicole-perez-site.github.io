@@ -46,6 +46,10 @@ a.href {
 	align-items: center
 }
 
+.nav {
+	align-content: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
 .content {align-content: center}
 
 .center {  display: block;

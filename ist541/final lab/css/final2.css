@@ -4,7 +4,7 @@
 body {
 	background-color: #29A58F;
 	color: #000000;   
-	font-size: 12px;
+	font-size: 18px;
 	font-family:Verdana, Geneva, sans-serif;
 	align-content: center;
 	align-items: center;
@@ -21,8 +21,16 @@ h1 {color:#000000;
 }
 h2 {font-size: 150% }
 
-.nav {align-items: center;
+a {
+	padding: 15px;
+	margin: 3px;
+	font-size: 18px; 
+	color: #0000; 
+}
+
+.nav {
 	align-content: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 }
 
 #nav {align-items: center;
@@ -53,6 +61,8 @@ h2 {font-size: 150% }
 	width:55%;
 	padding:10px;
 	line-height:145%;
+	font-size: 18px;
+	text-align: left;
 }
 
 .caution {

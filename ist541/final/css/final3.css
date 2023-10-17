@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	background-color: #29A58F;
+	color: #000000;   
+	font-size: 12px;
+	font-family:Verdana, Geneva, sans-serif;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+h1 { 
+	text-align:center;  
+	color:#8129AB;
+}
+h2 {text-align: center;
+color:black;
+font-size: 14px }
+
+#wrapper {
+	width: 85%;
+	margin: 0 auto;    /* centers wrapper */
+}
+
+#table {align-content: center}
+
+a:hover {
+	font-size:150%;
+	background-color: #29A58F; 
+	color: black; 
+}
+
+#feedback {
+	background-color: white; 
+	padding: 20px; 
+    font-size: 125%;
+}
