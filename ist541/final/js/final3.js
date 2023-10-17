@@ -25,8 +25,8 @@ if ($(this).attr("id") == "ESBL") {
 	}
 if ($(this).attr("id") == "MDR") {
          $("#feedback").css("color","black");
-         $("#feedback").html("Pseudomonas aeruginosa can cause infections in the blood and lungs.");
+         $("#feedback").html("Pseudomonas aeruginosa can cause infections in blood and in the lungs.");
       } 
    });	
 	
-}); //end main jQuery function
+});

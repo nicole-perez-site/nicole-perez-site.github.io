@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-
 body {
 	background-color: #29A58F;
 	color: #000000;          /* text color for the entire document */
@@ -55,3 +54,4 @@ a:hover {
 	display:block;
 	margin: auto;
 }
+

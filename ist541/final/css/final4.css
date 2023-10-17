@@ -1,79 +1,101 @@
 @charset "UTF-8";
 /* CSS Document */
-
-
 body {
-	background-image: url("../img/fuzzyor.png");   /* background image*/
-	color: #444;          /* text color for the entire document */
-	font-size: 12px;
+	background-color: #29A58F;
+	color: #000000;   
+	font-size: 16px;
 	font-family:Verdana, Geneva, sans-serif;
-	background-repeat: no-repeat;
+	align-content: center;
+	align-items: center;
+	text-align: center;
 }
-
 h1, h2 { 
-	text-align:center;     /* centers h1 and h2 content */
+	text-align:center;      
+	color:#0F2884;    
 }
-
-/* styles for the "wrapper" div, notice that "wrapper" is preceded by "#" */
-#wrapper {
-	width: 85%;
-	margin: 0 auto;    /* centers wrapper */
+h1 {color:#000000;      
+	font-weight: bolder; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+	font-size: 200%;
 }
+h2 {font-size: 150% }
 
 a {
 	padding: 15px;
-margin: 3px;
-	font-size: 125%;
-	background-color:  your_color_of_choice; 
-	color:  your_color_of_choice; 
+	margin: 3px;
+	font-size: 18px; 
+	color: #0000; 
 }
 
-a:hover {
-	font-size:200%;
-	background-color: your_color_of_choice; 
-	color: your_color_of_choice; 
+.nav {
+	align-content: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: white;
 }
 
-/* styles for the "stepTitle" class, notice that "stepTitle" is preceded by a dot */
+#nav {align-items: center;
+	align-content: center
+}
+
+#wrapper {
+	width: 85%;
+	margin: 0 auto;    
+}
+
 .stepTitle{
 	padding:10px;
-	background-color:#F7B857;
-	font-weight: bold;
-	font-size: 100%;
-	text-align: center;
+	text-align:left;
+	background-color:#F7E58D;
+	font-weight: bolder;
+	font-size: 155%;
  }
 
 .stepContent{ 
-	background-color: white;
+	background-color: lightgrey;
 	padding:7px;
 	display: flex;
 	flex-wrap:wrap;
 	justify-content: center;
 }
-
 .stepDescription {
 	width:55%;
-	padding:5px;
+	padding:10px;
 	line-height:145%;
+	font-size: 16px;
+	text-align: left;
 }
 
+.caution {
+		background-color: #FBB8C4;
+		padding:10px;
+		border-radius:20px;
+	}
+
+.material-icons {
+	color:red; 
+	font-size:2em;
+}
+
+.stepImage img {	
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
 .stepImage {
-	width:40%;	
-	padding:5px;
-	text-align: center;
+    width:40%;
+    height:80%;
 }
 
-.stepImage img {
-    width:100%;
-    height:auto;
-}
+.stepImage img { width: 60%; height: auto;}
 
 strong {
   font-weight: 800;
 }
 
-#feedback {
-	background: lightyellow; /* background color */
-	padding: 20px; 
-    font-size: 125%;
+a:hover {
+	font-size:150%;
+	background-color: #29A58F; 
+	color: black; 
 }
+
