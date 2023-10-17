@@ -29,8 +29,10 @@ a {
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: white;
 }
-
+.img {position:fixed;}
+	
 #wrapper {
 	width: 85%;
 	margin: 0 auto;    /* centers wrapper */

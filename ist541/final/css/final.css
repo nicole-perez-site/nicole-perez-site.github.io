@@ -49,6 +49,7 @@ a.href {
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: white;
 }
 .content {align-content: center}
 

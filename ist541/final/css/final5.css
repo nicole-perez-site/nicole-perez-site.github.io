@@ -22,7 +22,7 @@ h3 { text-align: center;
 	color:darkmagenta;
 }
 a {
-	padding: 18px;
+	padding: 2px;
 	margin: 3px;
 	font-size: 18px; 
 	color: #0000; 
@@ -31,6 +31,7 @@ a {
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: white;
 }
 
 .choices {
