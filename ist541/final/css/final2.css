@@ -31,7 +31,6 @@ a {
 .nav {
 	align-content: center;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	background-color: white;
 }
 
 .choices {
@@ -51,6 +50,16 @@ a:hover {
 	background-color: #29A58F; 
 	color: black; 
 }
+
+#fuzzyor {
+border: black 5px solid;
+}
+ 
+ #fuzzyor {
+display: none; /* hides content */
+border: black 5px solid;
+}
+
 
 #explanation {
 	background-color: white;  /* background color */
