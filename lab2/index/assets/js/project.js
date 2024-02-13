@@ -5,15 +5,15 @@ rkt:1,
 hsr:0,
 atp:false
 },
-StAd8:{
-from:9048,
-to:9847,
-src:'ar/5019.mp3',
-du:26673,
+StAd16:{
+from:9003,
+to:9787,
+src:'ar/5049.mp3',
+du:26175,
 saup:[{
 sn:3495,
-del:1.5,
-du:26.6735,
+del:0,
+du:26.1755,
 l:false
 }
 ]
@@ -22,8 +22,8 @@ l:false
 si3517:{
 name:'Scenario-Block_1',
 type:1268,
-from:1,
-to:846,
+from:9003,
+to:9848,
 rp:0,
 rpa:0,
 mdi:'si3517c',
@@ -561,8 +561,8 @@ vb:[-1,-1,4033,3025]
 si3550:{
 name:'Character_Group_2',
 type:1268,
-from:1,
-to:846,
+from:9003,
+to:9848,
 rp:0,
 rpa:0,
 mdi:'si3550c',
@@ -732,8 +732,8 @@ vb:[-1,-1,1,1]
 si3558:{
 name:'Text_3',
 type:1250,
-from:1,
-to:846,
+from:9003,
+to:9848,
 rp:0,
 rpa:0,
 mdi:'si3558c',
@@ -762,7 +762,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"ah89q","text":"Welcome to this training video! You will learn how to input a call shift into the scheduling system \\" T.E.A.M\\"","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":110,"style":"opacity:1"},{"offset":0,"length":110,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":110,"style":"hlnke:true"},{"offset":0,"length":110,"style":"defaultTextShadow:none"},{"offset":0,"length":110,"style":"textShadow:none"},{"offset":0,"length":110,"style":"textShadowX:0px"},{"offset":0,"length":110,"style":"fontStretch:normal"},{"offset":0,"length":110,"style":"fontType:regular"},{"offset":0,"length":110,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":110,"style":"textShadowY:4px"},{"offset":0,"length":110,"style":"letterSpacing:3%"},{"offset":0,"length":110,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":110,"style":"textHighlightEnable:false"},{"offset":0,"length":110,"style":"textTransform:none"},{"offset":0,"length":110,"style":"desktop-fontSize:60"},{"offset":0,"length":110,"style":"color:#020C1C"},{"offset":0,"length":110,"style":"lineHeight:110%"},{"offset":0,"length":110,"style":"textShadowOpacity:none"},{"offset":0,"length":110,"style":"overridden:true"},{"offset":0,"length":110,"style":"textDecoration:none"},{"offset":0,"length":110,"style":"fontFamily:Georgia"},{"offset":0,"length":110,"style":"borderBottomStyle:none"},{"offset":0,"length":110,"style":"textShadowEnable:false"},{"offset":0,"length":110,"style":"hlnk:"},{"offset":0,"length":110,"style":"fontWeight:normal"},{"offset":0,"length":110,"style":"textShadowBlur:8px"},{"offset":0,"length":110,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":110,"style":"backgroundColor:unset"},{"offset":0,"length":110,"style":"mobile-fontSize:44"},{"offset":0,"length":110,"style":"tablet-fontSize:52"},{"offset":0,"length":110,"style":"fontStyle:normal"},{"offset":0,"length":110,"style":"hlnkt:wp"},{"offset":0,"length":110,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":110,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":110,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-3","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"ah89q","text":"Welcome to this training video! You will learn how to input a call shift into the scheduling system ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":100,"style":"tablet-fontSize:52"},{"offset":0,"length":100,"style":"fontStyle:normal"},{"offset":0,"length":100,"style":"hlnkt:wp"},{"offset":0,"length":100,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":100,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":100,"style":"textOutlineEnable:false"},{"offset":0,"length":100,"style":"opacity:1"},{"offset":0,"length":100,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":100,"style":"hlnke:true"},{"offset":0,"length":100,"style":"defaultTextShadow:none"},{"offset":0,"length":100,"style":"textShadow:none"},{"offset":0,"length":100,"style":"textShadowX:0px"},{"offset":0,"length":100,"style":"fontStretch:normal"},{"offset":0,"length":100,"style":"fontType:regular"},{"offset":0,"length":100,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":100,"style":"textShadowY:4px"},{"offset":0,"length":100,"style":"letterSpacing:3%"},{"offset":0,"length":100,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":100,"style":"textHighlightEnable:false"},{"offset":0,"length":100,"style":"textTransform:none"},{"offset":0,"length":100,"style":"desktop-fontSize:60"},{"offset":0,"length":100,"style":"color:#020C1C"},{"offset":0,"length":100,"style":"lineHeight:110%"},{"offset":0,"length":100,"style":"textShadowOpacity:none"},{"offset":0,"length":100,"style":"overridden:true"},{"offset":0,"length":100,"style":"textDecoration:none"},{"offset":0,"length":100,"style":"fontFamily:Georgia"},{"offset":0,"length":100,"style":"borderBottomStyle:none"},{"offset":0,"length":100,"style":"textShadowEnable:false"},{"offset":0,"length":100,"style":"hlnk:"},{"offset":0,"length":100,"style":"fontWeight:normal"},{"offset":0,"length":100,"style":"textShadowBlur:8px"},{"offset":0,"length":100,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":100,"style":"backgroundColor:unset"},{"offset":0,"length":100,"style":"mobile-fontSize:44"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-3","listSize":"100%"}},{"key":"cqblg","text":"\\"T.E.A.M\\"","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":9,"style":"textShadowBlur:8px"},{"offset":0,"length":9,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":9,"style":"backgroundColor:unset"},{"offset":0,"length":9,"style":"mobile-fontSize:44"},{"offset":0,"length":9,"style":"tablet-fontSize:52"},{"offset":0,"length":9,"style":"fontStyle:normal"},{"offset":0,"length":9,"style":"hlnkt:wp"},{"offset":0,"length":9,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":9,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":9,"style":"textOutlineEnable:false"},{"offset":0,"length":9,"style":"opacity:1"},{"offset":0,"length":9,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":9,"style":"hlnke:true"},{"offset":0,"length":9,"style":"defaultTextShadow:none"},{"offset":0,"length":9,"style":"textShadow:none"},{"offset":0,"length":9,"style":"textShadowX:0px"},{"offset":0,"length":9,"style":"fontStretch:normal"},{"offset":0,"length":9,"style":"fontType:regular"},{"offset":0,"length":9,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":9,"style":"textShadowY:4px"},{"offset":0,"length":9,"style":"letterSpacing:3%"},{"offset":0,"length":9,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":9,"style":"textHighlightEnable:false"},{"offset":0,"length":9,"style":"textTransform:none"},{"offset":0,"length":9,"style":"desktop-fontSize:60"},{"offset":0,"length":9,"style":"color:#020C1C"},{"offset":0,"length":9,"style":"lineHeight:110%"},{"offset":0,"length":9,"style":"textShadowOpacity:none"},{"offset":0,"length":9,"style":"overridden:true"},{"offset":0,"length":9,"style":"textDecoration:none"},{"offset":0,"length":9,"style":"fontFamily:Georgia"},{"offset":0,"length":9,"style":"borderBottomStyle:none"},{"offset":0,"length":9,"style":"textShadowEnable:false"},{"offset":0,"length":9,"style":"hlnk:"},{"offset":0,"length":9,"style":"fontWeight:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-3","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -892,8 +892,8 @@ vb:[-1,-1,2,2]
 si3892:{
 name:'Text_3',
 type:1250,
-from:1,
-to:846,
+from:9003,
+to:9848,
 rp:0,
 rpa:0,
 mdi:'si3892c',
@@ -922,7 +922,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"ah89q","text":"Welcome to this training video!","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":31,"style":"textShadow:none"},{"offset":0,"length":31,"style":"textShadowX:0px"},{"offset":0,"length":31,"style":"fontStretch:normal"},{"offset":0,"length":31,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":31,"style":"textShadowY:4px"},{"offset":0,"length":31,"style":"letterSpacing:3%"},{"offset":0,"length":31,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":31,"style":"textHighlightEnable:false"},{"offset":0,"length":31,"style":"textTransform:none"},{"offset":0,"length":31,"style":"color:#020C1C"},{"offset":0,"length":31,"style":"lineHeight:110%"},{"offset":0,"length":31,"style":"textShadowOpacity:none"},{"offset":0,"length":31,"style":"overridden:true"},{"offset":0,"length":31,"style":"textDecoration:none"},{"offset":0,"length":31,"style":"fontType:bold"},{"offset":0,"length":31,"style":"fontFamily:Georgia"},{"offset":0,"length":31,"style":"borderBottomStyle:none"},{"offset":0,"length":31,"style":"textShadowEnable:false"},{"offset":0,"length":31,"style":"hlnk:"},{"offset":0,"length":31,"style":"fontWeight:normal"},{"offset":0,"length":31,"style":"textShadowBlur:8px"},{"offset":0,"length":31,"style":"desktop-fontSize:36"},{"offset":0,"length":31,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":31,"style":"backgroundColor:unset"},{"offset":0,"length":31,"style":"mobile-fontSize:44"},{"offset":0,"length":31,"style":"tablet-fontSize:52"},{"offset":0,"length":31,"style":"fontStyle:normal"},{"offset":0,"length":31,"style":"hlnkt:wp"},{"offset":0,"length":31,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":31,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":31,"style":"textOutlineEnable:false"},{"offset":0,"length":31,"style":"opacity:1"},{"offset":0,"length":31,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":31,"style":"hlnke:true"},{"offset":0,"length":31,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"NaNpx","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"NaN%","presetId":"custom_text_9bb","listSize":"100%"}},{"key":"9voae","text":" You will learn how to input a call shift into the scheduling system \\" T.E.A.M\\"","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":79,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":79,"style":"hlnke:true"},{"offset":0,"length":79,"style":"defaultTextShadow:none"},{"offset":0,"length":79,"style":"textShadow:none"},{"offset":0,"length":79,"style":"textShadowX:0px"},{"offset":0,"length":79,"style":"fontStretch:normal"},{"offset":0,"length":79,"style":"fontType:regular"},{"offset":0,"length":79,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":79,"style":"textShadowY:4px"},{"offset":0,"length":79,"style":"letterSpacing:3%"},{"offset":0,"length":79,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":79,"style":"textHighlightEnable:false"},{"offset":0,"length":79,"style":"textTransform:none"},{"offset":0,"length":1,"style":"desktop-fontSize:60"},{"offset":0,"length":79,"style":"color:#020C1C"},{"offset":0,"length":79,"style":"lineHeight:110%"},{"offset":0,"length":79,"style":"textShadowOpacity:none"},{"offset":0,"length":79,"style":"overridden:true"},{"offset":0,"length":79,"style":"textDecoration:none"},{"offset":0,"length":79,"style":"fontFamily:Georgia"},{"offset":0,"length":79,"style":"borderBottomStyle:none"},{"offset":0,"length":79,"style":"textShadowEnable:false"},{"offset":0,"length":79,"style":"hlnk:"},{"offset":0,"length":79,"style":"fontWeight:normal"},{"offset":0,"length":79,"style":"textShadowBlur:8px"},{"offset":1,"length":78,"style":"desktop-fontSize:36"},{"offset":0,"length":79,"style":"backgroundColor:unset"},{"offset":0,"length":79,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":79,"style":"tablet-fontSize:52"},{"offset":0,"length":79,"style":"mobile-fontSize:44"},{"offset":0,"length":79,"style":"hlnkt:wp"},{"offset":0,"length":79,"style":"fontStyle:normal"},{"offset":0,"length":79,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":79,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":79,"style":"textOutlineEnable:false"},{"offset":0,"length":79,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"NaNpx","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"NaN%","presetId":"custom_text_9bb","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"ah89q","text":"Welcome to this training video!","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":31,"style":"hlnk:"},{"offset":0,"length":31,"style":"fontWeight:normal"},{"offset":0,"length":31,"style":"textShadowBlur:8px"},{"offset":0,"length":31,"style":"desktop-fontSize:36"},{"offset":0,"length":31,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":31,"style":"backgroundColor:unset"},{"offset":0,"length":31,"style":"mobile-fontSize:44"},{"offset":0,"length":31,"style":"tablet-fontSize:52"},{"offset":0,"length":31,"style":"fontStyle:normal"},{"offset":0,"length":31,"style":"hlnkt:wp"},{"offset":0,"length":31,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":31,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":31,"style":"textOutlineEnable:false"},{"offset":0,"length":31,"style":"opacity:1"},{"offset":0,"length":31,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":31,"style":"hlnke:true"},{"offset":0,"length":31,"style":"defaultTextShadow:none"},{"offset":0,"length":31,"style":"textShadow:none"},{"offset":0,"length":31,"style":"textShadowX:0px"},{"offset":0,"length":31,"style":"fontStretch:normal"},{"offset":0,"length":31,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":31,"style":"textShadowY:4px"},{"offset":0,"length":31,"style":"letterSpacing:3%"},{"offset":0,"length":31,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":31,"style":"textHighlightEnable:false"},{"offset":0,"length":31,"style":"textTransform:none"},{"offset":0,"length":31,"style":"color:#020C1C"},{"offset":0,"length":31,"style":"lineHeight:110%"},{"offset":0,"length":31,"style":"textShadowOpacity:none"},{"offset":0,"length":31,"style":"overridden:true"},{"offset":0,"length":31,"style":"textDecoration:none"},{"offset":0,"length":31,"style":"fontType:bold"},{"offset":0,"length":31,"style":"fontFamily:Georgia"},{"offset":0,"length":31,"style":"borderBottomStyle:none"},{"offset":0,"length":31,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"NaNpx","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"NaN%","presetId":"custom_text_9bb","listSize":"100%"}},{"key":"9voae","text":" You will learn how to input a call shift into the scheduling system \\" T.E.A.M\\"","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":79,"style":"textDecoration:none"},{"offset":0,"length":79,"style":"fontFamily:Georgia"},{"offset":0,"length":79,"style":"borderBottomStyle:none"},{"offset":0,"length":79,"style":"textShadowEnable:false"},{"offset":0,"length":79,"style":"hlnk:"},{"offset":0,"length":79,"style":"fontWeight:normal"},{"offset":0,"length":79,"style":"textShadowBlur:8px"},{"offset":1,"length":78,"style":"desktop-fontSize:36"},{"offset":0,"length":79,"style":"backgroundColor:unset"},{"offset":0,"length":79,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":79,"style":"tablet-fontSize:52"},{"offset":0,"length":79,"style":"mobile-fontSize:44"},{"offset":0,"length":79,"style":"hlnkt:wp"},{"offset":0,"length":79,"style":"fontStyle:normal"},{"offset":0,"length":79,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":79,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":79,"style":"textOutlineEnable:false"},{"offset":0,"length":79,"style":"opacity:1"},{"offset":0,"length":79,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":79,"style":"hlnke:true"},{"offset":0,"length":79,"style":"defaultTextShadow:none"},{"offset":0,"length":79,"style":"textShadow:none"},{"offset":0,"length":79,"style":"textShadowX:0px"},{"offset":0,"length":79,"style":"fontStretch:normal"},{"offset":0,"length":79,"style":"fontType:regular"},{"offset":0,"length":79,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":79,"style":"textShadowY:4px"},{"offset":0,"length":79,"style":"letterSpacing:3%"},{"offset":0,"length":79,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":79,"style":"textHighlightEnable:false"},{"offset":0,"length":79,"style":"textTransform:none"},{"offset":0,"length":1,"style":"desktop-fontSize:60"},{"offset":0,"length":79,"style":"color:#020C1C"},{"offset":0,"length":79,"style":"lineHeight:110%"},{"offset":0,"length":79,"style":"textShadowOpacity:none"},{"offset":0,"length":79,"style":"overridden:true"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"NaNpx","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"NaN%","presetId":"custom_text_9bb","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:-1,
 trin:0,
@@ -1200,8 +1200,8 @@ vb:[-2,-2,-1,-1]
 Slide3495:{
 lb:'Start Slide',
 id:3495,
-from:1,
-to:846,
+from:9003,
+to:9848,
 iols:0,
 i360qs:false,
 sdu:28.2,
@@ -1267,9 +1267,9 @@ uid:3495,
 dn:'Slide3495',
 visible:'1'
 },
-StAd9:{
-from:9003,
-to:9652,
+StAd17:{
+from:9849,
+to:10498,
 src:'ar/5021.mp3',
 du:21667,
 saup:[{
@@ -3264,25 +3264,11 @@ uid:390,
 dn:'Slide390',
 visible:'1'
 },
-StAd10:{
-from:9003,
-to:9616,
-src:'ar/5023.mp3',
-du:20467,
-saup:[{
-sn:524,
-del:0,
-du:20.4673,
-l:false
-}
-]
-
-},
 si550:{
 name:'Simulation_2',
 type:1268,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si550c',
@@ -3292,7 +3278,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'',
 presetType:14,
@@ -3446,8 +3432,8 @@ vb:[-1,-1,1,1]
 si542:{
 name:'Simulation_non_responsive_2',
 type:1268,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si542c',
@@ -3457,7 +3443,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'',
 presetType:14,
@@ -3643,8 +3629,8 @@ vb:[-1,-1,1,1]
 si1645:{
 name:'Instructions_2',
 type:612,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si1645c',
@@ -3654,7 +3640,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'',
 presetType:0,
@@ -3871,8 +3857,8 @@ vb:[-4,-4,2,2]
 si4041:{
 name:'Rectangle_14',
 type:612,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si4041c',
@@ -3882,7 +3868,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'cp_default_caption_shape_solid_style',
 presetType:0,
@@ -4797,8 +4783,8 @@ vb:[-2,-2,974,50]
 si4021:{
 name:'Click_box_10',
 type:1269,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si4021c',
@@ -4808,7 +4794,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'',
 presetType:13,
@@ -4957,8 +4943,8 @@ vb:[1266,24,1330,88]
 si4031:{
 name:'Shape_10',
 type:612,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 rp:0,
 rpa:0,
 mdi:'si4031c',
@@ -4968,7 +4954,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:23.8,
+sid:26.5,
 presetData:[{
 presetId:'',
 presetType:0,
@@ -5185,11 +5171,11 @@ vb:[-2,-2,66,66]
 Slide524:{
 lb:'Add Calendar',
 id:524,
-from:1531,
-to:2245,
+from:9849,
+to:10643,
 iols:0,
 i360qs:false,
-sdu:23.8,
+sdu:26.5,
 presetData:[{
 presetId:'',
 presetType:3,
@@ -5252,15 +5238,21 @@ uid:524,
 dn:'Slide524',
 visible:'1'
 },
-StAd11:{
-from:9003,
-to:9653,
-src:'ar/5025.mp3',
-du:21708,
+StAd19:{
+from:9849,
+to:11342,
+src:'ar/StAd18.mp3',
+du:49820,
 saup:[{
+sn:524,
+del:0,
+du:26.4673,
+l:false
+}
+,{
 sn:648,
 del:0,
-du:21.7082,
+du:23.3531,
 l:false
 }
 ]
@@ -7174,8 +7166,8 @@ vb:[-2,-2,66,66]
 Slide648:{
 lb:'Simulation slide 3',
 id:648,
-from:2246,
-to:3040,
+from:10644,
+to:11438,
 iols:0,
 i360qs:false,
 sdu:26.5,
@@ -16953,10 +16945,10 @@ uid:1193,
 dn:'Slide1193',
 visible:'1'
 },
-StAd13:{
-from:9003,
-to:12259,
-src:'ar/StAd12.mp3',
+StAd21:{
+from:11439,
+to:14695,
+src:'ar/StAd20.mp3',
 du:108767,
 saup:[{
 sn:772,
@@ -27070,10 +27062,10 @@ uid:3604,
 dn:'Slide3604',
 visible:'1'
 },
-StAd15:{
-from:9003,
-to:11598,
-src:'ar/StAd14.mp3',
+StAd23:{
+from:11439,
+to:14034,
+src:'ar/StAd22.mp3',
 du:86672,
 saup:[{
 sn:1441,
@@ -34907,7 +34899,7 @@ isResponsiveSim:1,
 currentFrame:1,
 useWidgetVersion7:false,
 isPublishedFromLacuna:false,
-slideAudios:'StAd8,StAd9,StAd10,StAd11,StAd13,StAd15',
+slideAudios:'StAd16,StAd17,StAd19,StAd21,StAd23',
 vestr:0,
 vim:0,
 slides:'Slide3495,Slide390,Slide524,Slide648,Slide772,Slide1072,Slide1193,Slide1317,Slide1441,Slide1565,Slide3604',
@@ -34953,7 +34945,7 @@ tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Content","SLIDE_DETAILS
 },
 trecs:[{
 link:3495,
-text:['""']
+text:['""','""']
 }
 ,{
 link:390,
@@ -34961,11 +34953,11 @@ text:['""']
 }
 ,{
 link:524,
-text:['""']
+text:['""','""']
 }
 ,{
 link:648,
-text:['""']
+text:['""','""']
 }
 ,{
 link:772,
@@ -35136,12 +35128,11 @@ cp.model.slideVideos=[
 cp.model.tocVideos=[
 ];
 cp.model.audios=[
-'ar/5019.mp3',
+'ar/5049.mp3',
 'ar/5021.mp3',
-'ar/5023.mp3',
-'ar/5025.mp3',
-'ar/StAd12.mp3',
-'ar/StAd14.mp3'
+'ar/StAd18.mp3',
+'ar/StAd20.mp3',
+'ar/StAd22.mp3'
 ];
 
 cp.initVariables = function(){
