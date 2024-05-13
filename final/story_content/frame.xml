@@ -28,7 +28,7 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="resources" value="false" group="linkleft" />
               <listitem name="outline" value="true" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -50,7 +50,7 @@
       <optiongroup name="menuoptions">
         <options>
           <option name="flow" value="free" />
-          <option name="wraplistitems" value="false" />
+          <option name="wraplistitems" value="true" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
           <option name="autonumber" value="false" />
@@ -1590,7 +1590,58 @@
           <links>
             <slidelink slideid="_player.5uvQrLR5YcH.6IlJ0jxZmJh" displaytext="Title Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6gaCQeOl9Z5" displaytext="Learning Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5d8lrGy1VuD" displaytext="PPE" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5eifga3k9ew" displaytext="Bacteria " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6EacJt5AIVW" displaytext="C Diff" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6f77m9w08Yp" displaytext="MRSA" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5lcCnxqlOeJ" displaytext="VRE" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6XB8tw9B3UP" displaytext="CRE" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.66XafETUqKv" displaytext="Blood Borne Pathogen Policy" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6LOqURbG4yg" displaytext="Using an alcohol based hand sanitizer is acceptable for all types of bacteria " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6rfq1VHoRz1" displaytext="Dangerous microorganisms can also be in body fluids" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6EbK7iQleGI" displaytext="Select the bacteria that has not developed a resistance to antibiotics. " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5nD65JDQhbb" displaytext="Turn Overs &amp;amp; Terminal Cleans" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5hPpBhzDpb9" displaytext="Cleaning Products" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6ZFR1ZTL9sM" displaytext="Cleaning Product ‘Dwell’ / Contact Time" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5q0Joz91sOA" displaytext="Cleaning Product ‘Dwell’ Time Review" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6JhV87u5QcR" displaytext="Sani Wipes can be used to clean the entire operating room. " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5pSbo3qN3Gk" displaytext="Using bleach wipes for clostridium difficile (C DIFF) is necessary when cleaning reusable supplies and equipment." expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5XY49rjutXY" displaytext="A patient with MRSA has departed the operating room, what is the next step for the room turn over?" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6HRgLY76qgv" displaytext="Anesthesia Circuit &amp;amp; Suction" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6ZM1AKgJjrE" displaytext="Anesthesia Circuit " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5srrPQQe7aD" displaytext="Anesthesia Suction" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6cMSCm5cdXi" displaytext="Circuit Hose connection to machine" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6dmgBz2DC2U" displaytext="Placing the bag onto the arm" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.65e9PvJczpJ" displaytext="Adding the mask to the hose connection" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6TcPQXp5lLR" displaytext="Capnography (CO2) Sampling Line " expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6PbMNQqm9P8" displaytext="EKG Leads" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6hF3ekm2Uyn" displaytext="Circuit Steps" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.62TIl8eeo8a" displaytext="Circuit knowledge check" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5XUUnvwzw3n" displaytext="Preparing to complete the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.645hiEMLpCv" displaytext="First steps of the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6q8hsnhiUbs" displaytext="Completing the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5kJj1u56brA" displaytext="Completing the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5nECVvRJWh9" displaytext="Completing the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6M8oDglXdVD" displaytext="Completing the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.63Ow43VCRtj" displaytext="Completing the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6kuFSmSGoa6" displaytext="Final steps of the ‘turn over’" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6rnQgDAaIZX" displaytext="Checklist" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6pDF6PvPavU" displaytext="PPE is optional during a room turn over." expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6ePNQp9lnTa" displaytext="Cleaning should begin from the highest items in the room, to the lowest items. " expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.5xehwQbceIP" displaytext="Final Module Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5g3oSPOz5vy" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6GmeaSMz6Lh" displaytext="Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6Qq2Ij4yFoY" displaytext="Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6C9prxG8Hgz" displaytext="Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6Mf7q9vgqdR" displaytext="Q5" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5jPFAKoz3oh" displaytext="Q6" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6Ofs3RlU5DQ" displaytext="Q7" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.69IZugQDQhd" displaytext="Q8" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5tv531X93NJ" displaytext="Q9" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6U7KSs9YNa4" displaytext="Q10" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6e1jN6qygXY" displaytext="Q11" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.6EHm0XixQsB" displaytext="Q12" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5YSwFzsAqHk" displaytext="Q13" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6PI2EfoDaj6" displaytext="Final Notes" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.5YuhgsZbESL" displaytext="References" expand="false" type="slide" />
           </links>
