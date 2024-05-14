@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6hj4g22LDZp" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6T8c8lXda8n" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="526_final_perez.n_ORG">
     <organization identifier="526_final_perez.n_ORG">
       <title>526_final_perez.n</title>
-      <item identifier="_526_final_perez.n_SCO" isvisible="true" identifierref="__6hj4g22LDZp_RES">
+      <item identifier="_526_final_perez.n_SCO" isvisible="true" identifierref="__6T8c8lXda8n_RES">
         <title>526_final_perez.n</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6hj4g22LDZp_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6T8c8lXda8n_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5iTrsuLfvUf.png" />
       <file href="mobile/6bwqSzL9Lds_P_270_176_1599_1083.jpg" />
@@ -77,8 +77,8 @@
       <file href="story_content/5YFamnY8v3d_44100_48_0.mp3" />
       <file href="story_content/5fdAcYcSjEu_captions.js" />
       <file href="mobile/5ZO23NZXl80.jpg" />
-      <file href="mobile/6LCWm1tNtfC.jpg" />
       <file href="mobile/6r4KSsRPs6q.jpg" />
+      <file href="mobile/6l5iMX1d1Fy.jpg" />
       <file href="mobile/6EbnB7fHZsG.jpg" />
       <file href="mobile/6FMPZigZhZH_B-43_C65.jpg" />
       <file href="mobile/6854YtJwDIC.jpg" />
@@ -89,11 +89,13 @@
       <file href="mobile/5dCCojL53yA_P_297_0_963_1678.jpg" />
       <file href="mobile/6hKn8O2NilK.jpg" />
       <file href="mobile/6mHWldrLpE4.jpg" />
+      <file href="story_content/6gCAl4UIJyq_44100_48_0.mp3" />
+      <file href="story_content/69LqjMP8cWX_captions.js" />
       <file href="mobile/6ewMtKpFPZM.jpg" />
       <file href="mobile/5dCCojL53yA_P_408_642_675_963.jpg" />
       <file href="story_content/6I8wxhzZ1fC_44100_48_0.mp3" />
       <file href="story_content/5wzqUmrVP8J_captions.js" />
-      <file href="story_content/67xORCwcDr6_captions.js" />
+      <file href="mobile/6LCWm1tNtfC.jpg" />
       <file href="mobile/6Z2dm5lASRG.jpg" />
       <file href="mobile/62EMxUXxgrB.jpg" />
       <file href="mobile/6PP3sEvwoY9.jpg" />
@@ -157,6 +159,24 @@
       <file href="mobile/txt__default_6GXpyYzaCQh.png" />
       <file href="mobile/txt__default_6OMOMxU9xC6.png" />
       <file href="mobile/txt__default_6UUpd3rWxsO.png" />
+      <file href="mobile/Shape6A02hq4xbNl.png" />
+      <file href="mobile/Shape5quZdGHFcL5.png" />
+      <file href="mobile/Shape6CbMJfhQrMI.png" />
+      <file href="mobile/Shape5aNJ9JPE9Iu.png" />
+      <file href="mobile/Shape64boPN2eRKA.png" />
+      <file href="mobile/Shape6nl3kT5H1c7.png" />
+      <file href="mobile/Shape61f3dthXn9Y.png" />
+      <file href="mobile/Shape646dBGfFnnX.png" />
+      <file href="mobile/Shape6ng2lexGNmB.png" />
+      <file href="mobile/Shape5lFeLhgD6Bz.png" />
+      <file href="mobile/Shape5YIPM1vQpVh.png" />
+      <file href="mobile/Shape5rokXl7Avf3.png" />
+      <file href="mobile/Shape6NFwtdJguNu.png" />
+      <file href="mobile/Shape6fLpMzg0fCj.png" />
+      <file href="mobile/Shape5kbx2xnSD5i.png" />
+      <file href="mobile/Shape68PhncPHlrI.png" />
+      <file href="mobile/Shape6rdFOtcNkoJ.png" />
+      <file href="mobile/Shape5vCfomwfI0M.png" />
       <file href="mobile/Shape6dWNZm4SrPT.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5d8lrGy1VuD.js" />
