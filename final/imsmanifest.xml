@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">526_final_perez.n</langstring>
+          <langstring xml:lang="x-none">IST_526_Perez,Nicole</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="526_final_perez.n_ORG">
-    <organization identifier="526_final_perez.n_ORG">
-      <title>526_final_perez.n</title>
+  <organizations default="IST_526_Perez,Nicole_ORG">
+    <organization identifier="IST_526_Perez,Nicole_ORG">
+      <title>IST_526_Perez,Nicole</title>
       <item identifier="_526_final_perez.n_SCO" isvisible="true" identifierref="__6T8c8lXda8n_RES">
-        <title>526_final_perez.n</title>
+        <title>IST_526_Perez,Nicole</title>
       </item>
     </organization>
   </organizations>
@@ -159,7 +159,6 @@
       <file href="mobile/txt__default_6GXpyYzaCQh.png" />
       <file href="mobile/txt__default_6OMOMxU9xC6.png" />
       <file href="mobile/txt__default_6UUpd3rWxsO.png" />
-      <file href="mobile/Shape699HG6Q5Jhi.png" />
       <file href="mobile/Shape6A02hq4xbNl.png" />
       <file href="mobile/Shape5quZdGHFcL5.png" />
       <file href="mobile/Shape6CbMJfhQrMI.png" />
@@ -186,7 +185,6 @@
       <file href="html5/data/js/5hPpBhzDpb9.js" />
       <file href="html5/data/js/5jPFAKoz3oh.js" />
       <file href="html5/data/js/5kJj1u56brA.js" />
-      <file href="html5/data/js/5l4f96aIYnf.js" />
       <file href="html5/data/js/5lcCnxqlOeJ.js" />
       <file href="html5/data/js/5nD65JDQhbb.js" />
       <file href="html5/data/js/5nECVvRJWh9.js" />

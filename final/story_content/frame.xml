@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxnanbsnfns10111000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x7FD13B">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x7FD13B">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Tahoma" controllayout="npnxnanbsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Tahoma" controllayout="pxabnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Tahoma" controllayout="npxnabnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Tahoma" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Tahoma" controllayout="pxabnsnfns10111000100" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxnanbsnfns10111000101" font="Tahoma" controllayout="pxnanbsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxnanbnsnfns10111000101" font="Tahoma" controllayout="pxnanbnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxanbnsnfns10111000101" font="Tahoma" controllayout="pxanbnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pxnabnsnfns10111000101" font="Tahoma" controllayout="pxnabnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
-    <layout name="pnxnanbnsnfns10111000101" font="Tahoma" controllayout="pnxnanbnsnfns10111000101" colorscheme="pxnanbsnfns10111000101" string_table="pxnanbsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111000101" font="Tahoma" controllayout="npnxnanbsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Tahoma" controllayout="pxabnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Tahoma" controllayout="npxnabnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Tahoma" controllayout="npnxnanbnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Tahoma" controllayout="pxabnsnfns10111000100" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="pxnanbsnfns10111000101" font="Tahoma" controllayout="pxnanbsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -18,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="526_final_perez.n" />
+              <option name="title_text" value="IST_526_Perez,Nicole" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -253,109 +249,9 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxnanbnsnfns10111000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="pxanbnsnfns10111000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="pxnabnsnfns10111000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="true" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="pnxnanbnsnfns10111000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="true" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxnanbsnfns10111000101">
+    <colorscheme name="npnxnanbnsnfns10111000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1532,7 +1428,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxnanbsnfns10111000101">
+    <string_table name="npnxnanbnsnfns10111000101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1732,7 +1628,7 @@
             <slidelink slideid="_player.5uvQrLR5YcH.6rnQgDAaIZX" displaytext="Checklist" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6pDF6PvPavU" displaytext="PPE is optional during a room turn over." expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6ePNQp9lnTa" displaytext="Cleaning should begin from the highest items in the room, to the lowest items. " expand="false" type="slide" />
-            <slidelink slideid="_player.5uvQrLR5YcH.5xehwQbceIP" displaytext="Slide 45- review or go to final" expand="false" type="slide" />
+            <slidelink slideid="_player.5uvQrLR5YcH.5xehwQbceIP" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.5g3oSPOz5vy" displaytext="Q1" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6GmeaSMz6Lh" displaytext="Q2" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6Qq2Ij4yFoY" displaytext="Q3" expand="false" type="slide" />
@@ -1748,7 +1644,6 @@
             <slidelink slideid="_player.5uvQrLR5YcH.5YSwFzsAqHk" displaytext="Q13" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.6PI2EfoDaj6" displaytext="Final Notes" expand="false" type="slide" />
             <slidelink slideid="_player.5uvQrLR5YcH.5YuhgsZbESL" displaytext="References" expand="false" type="slide" />
-            <slidelink slideid="_player.5uvQrLR5YcH.5l4f96aIYnf" displaytext="Quiz Intro " expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
