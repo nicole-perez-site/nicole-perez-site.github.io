@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns10111000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxnanbnsnfns10111000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns10111000101" font="Lato" controllayout="npnxnanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000101" font="Lato" controllayout="pxabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npxnabnsnfns10111000101" font="Lato" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns10111000101" font="Lato" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxabnsnfns10111000100" font="Lato" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="pxnanbnsnfns10111000101" font="Lato" controllayout="pxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npnxnanbsnfns10111000101" font="Lato" controllayout="npnxnanbsnfns10111000101" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Lato" controllayout="pxabnsnfns10111000101" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Lato" controllayout="npxnabnsnfns10111000101" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Lato" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Lato" controllayout="pxabnsnfns10111000100" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
+    <layout name="pxnanbnsnfns10111000101" font="Lato" controllayout="pxnanbnsnfns10111000101" colorscheme="pxnanbnsnfns10111000101" string_table="pxnanbnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -251,7 +251,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111000101">
+    <colorscheme name="pxnanbnsnfns10111000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1428,7 +1428,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111000101">
+    <string_table name="pxnanbnsnfns10111000101">
       <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
       <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
       <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
@@ -1478,6 +1478,7 @@
       <string id="close">Close</string>
       <string id="closed_captions">Captions</string>
       <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="desktop_start">Start Course</string>
@@ -1566,7 +1567,6 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="continue">Continue</string>
     </string_table>
   </string_tables>
   <fonts>
