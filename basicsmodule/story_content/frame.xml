@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Basics of the OR Module" />
+              <option name="title_text" value="Basics" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1581,9 +1581,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6BhOqgDnVjL" displaytext="Copy of COMMONSPIRIT Slides Template" expand="true" type="slide">
+        <slidelink slideid="_player.6BhOqgDnVjL" displaytext="BBP &amp;amp; PPE Module" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6BhOqgDnVjL.6BLjNKVu7xr" displaytext="Bacteria Module Title" expand="false" type="slide" />
+            <slidelink slideid="_player.6BhOqgDnVjL.6BLjNKVu7xr" displaytext="BBP, PPE Module" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6Joo7i1G28H" displaytext="BBP &amp;amp; OPIM" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.62vp6mv3kHg" displaytext="BBP &amp;amp; OPIM" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6CAHU14lHHI" displaytext="PPE" expand="false" type="slide" />
@@ -1594,8 +1594,8 @@
             <slidelink slideid="_player.6BhOqgDnVjL.6it8ntBKEt6" displaytext="Personal Protective Equipment" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.68q1E9HZ0yv" displaytext="Intro Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6TNeVP1JEMM" displaytext="Hand Washing Job Aide" expand="false" type="slide" />
+            <slidelink slideid="_player.6BhOqgDnVjL.6G4fSULK6gI" displaytext="Hand Washing Job Aide" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6a7OhbMXqgW" displaytext="Hand hygiene is the most important part of preventing cross contamination. " expand="false" type="slide" />
-            <slidelink slideid="_player.6BhOqgDnVjL.6Vx3QlkzrJc" displaytext="If you wear gloves during direct patient care, you don&amp;apos;t need to do hand hygiene after removing." expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.65z8mJbcSA1" displaytext="Personal protective equipment is required for all healthcare workers who may come in contact with blood or other potentially infectious materials. " expand="false" type="slide" />
           </links>
         </slidelink>
