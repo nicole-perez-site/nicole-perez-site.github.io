@@ -7,6 +7,7 @@
     <layout name="npnxnanbnsnfns00001100101" font="Lato" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxnanbnsnfns00001100101" string_table="pxnanbnsnfns00001100101" />
     <layout name="pxabnsnfns00001100100" font="Lato" controllayout="pxabnsnfns00001100100" colorscheme="pxnanbnsnfns00001100101" string_table="pxnanbnsnfns00001100101" />
     <layout name="pxnanbnsnfns00001100101" font="Lato" controllayout="pxnanbnsnfns00001100101" colorscheme="pxnanbnsnfns00001100101" string_table="pxnanbnsnfns00001100101" />
+    <layout name="pnxnanbnsnfns00001100101" font="Lato" controllayout="pnxnanbnsnfns00001100101" colorscheme="pxnanbnsnfns00001100101" string_table="pxnanbnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -232,6 +233,31 @@
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pnxnanbnsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
@@ -1585,17 +1611,18 @@
           <links>
             <slidelink slideid="_player.6BhOqgDnVjL.6BLjNKVu7xr" displaytext="Cleaning Agents Module" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6JfYk8gDGf3" displaytext="Turn Over &amp;amp; Terminal Clean" expand="false" type="slide" />
+            <slidelink slideid="_player.6BhOqgDnVjL.5wGDY6Gr8F0" displaytext="Objectives" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.66MgW4WzvkO" displaytext="Contaminated &amp;amp; Clean" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.5qS5C9Z64GZ" displaytext="Dwell Time &amp;amp; Clean" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6CAHU14lHHI" displaytext="Pdi products" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.67c6o1A3ZE3" displaytext="Pdi products" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.63paoNqzg0A" displaytext="3m 40a Solution" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.618CFqRWocc" displaytext="3m Dispensing System" expand="false" type="slide" />
+            <slidelink slideid="_player.6BhOqgDnVjL.6rY018NgXbM" displaytext="3m Dispensing System" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6Y1LuD4h4wp" displaytext="Cleaning &amp;amp; Disninfecting" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6QuASHorKF8" displaytext="3m 40a Solution Dwell Times" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6FiUkCtpyro" displaytext="PDI wipes" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6qBkCR12J9K" displaytext="The end" expand="false" type="slide" />
-            <slidelink slideid="_player.6BhOqgDnVjL.68q1E9HZ0yv" displaytext="Intro Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6TNeVP1JEMM" displaytext="Dwell Time Job Aide" expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6a7OhbMXqgW" displaytext="The dwell / contact time is the time a surface must remain wet for the chemical to be effective. " expand="false" type="slide" />
             <slidelink slideid="_player.6BhOqgDnVjL.6ncCjxIe1Dw" displaytext="The dwell/contact time for Super Sani wipes&#xA; is _____ minutes." expand="false" type="slide" />
